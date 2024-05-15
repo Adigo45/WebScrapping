@@ -5,7 +5,7 @@
 
 This project demonstrates how to use and requests libraries in python to scrape and extract data from Web browser of wikipedia with largest companies in the world.
 
-We used inspect tool from the browser by right clicking the mouse..
+We used inspect tool from the browser by right clicking the mouse.
 
 ![wikipedia Data](wikipedia_data.png)
 
